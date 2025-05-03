@@ -1,0 +1,19 @@
+p, .cool-odd {
+    background-color: rgb(255, 82, 226);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+  }
+
+.cool-odd {
+    font-size: 24px;
+}
+
+#div-1 {
+    color: blue;
+    font-size: 36px;
+}
+
+#div-2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
